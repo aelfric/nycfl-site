@@ -10,13 +10,13 @@ All results are posted on
 [tabroom.com](https://www.tabroom.com)
 
 ### NYCFL Information
-* Schedule (Approved)
-* NYCFL Ballots and Critiques
-* NCFL Membership Cards
-* NYCFL Membership Form
-* Judges Handbook
-* Constitution (Approved)
-* Bylaws (Approved)
+* [Schedule]()
+* [NYCFL Ballots and Critiques]()
+* [NCFL Membership Cards](/documents/NCFLMembershipForm.pdf)
+* [NYCFL Membership Form]()
+* [Judges Handbook]()
+* [Constitution]()
+* [Bylaws]()
 
 ### Useful Websites
 * [NCFL Website](https://ncfl.org)

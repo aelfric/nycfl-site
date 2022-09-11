@@ -21,10 +21,10 @@ header_menu: true
 **Tech Rep** - [Frank Riccobono](mailto:f.riccobono@gmail.com)
 
 
-{{<icon class="fa fa-envelope">}} **Mail**: <br>
-New York Catholic Forensic League <br>
-c/o Christopher Franz <br>
-614 Bard Avenue <br>
+{{<icon class="fa fa-envelope">}} **Mail**:  
+New York Catholic Forensic League  
+c/o Christopher Franz  
+614 Bard Avenue  
 Staten Island, NY 10310
 
 {{<icon class="fa fa-phone">}} **Phone**: [914 649 8246](tel:9146498246)

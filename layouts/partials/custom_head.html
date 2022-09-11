@@ -4,49 +4,67 @@
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
 
+<html lang="en"></html>
 <style>
-     /* Links */
-     a:hover {
-         color: #ba4b45;
-     }
 
-     /* Header Buttons on Startpage */
-     a.btn {
-         color: white;
-          background-color: #8f3935;
-     }
-     a.btn:hover {
-          background-color: #ba4b45;
-     }
+   * {
+     box-sizing: border-box;
+   }
 
-     /* Scroll Menu on Startpage */
-     a.fn-item {
-          color: #8d86c9;
-     }
-     a.fn-item.active {
-          color: #ba4b45;
-     }
-     a.fn-item:hover {
-          color: #ba4b45;
-     }
+  /* Links */
+  a:hover {
+    color: #ba4b45;
+  }
 
-     /* Content / Sections */
-     .post-holder.odd {
-          background: #151719;
-          color: rgba(255,255,255,0.75);
-     }
-     .post-holder {
-          background: #e1dee3;
-     }
-     body {
-          color: #3A4145;
-     }
+  /* Header Buttons on Startpage */
+  a.btn {
+    color: white;
+    background-color: #8f3935;
+  }
+  a.btn:hover {
+    background-color: #ba4b45;
+  }
 
-     /* Footer */
-     .site-footer {
-          color: #BBC7CC;
-          background-color: #22343A;
-     }
+  /* Scroll Menu on Startpage */
+  a.fn-item {
+    color: #8d86c9;
+  }
+  a.fn-item.active {
+    color: #ba4b45;
+  }
+  a.fn-item:hover {
+    color: #ba4b45;
+  }
+
+  /* Content / Sections */
+  .post-holder.odd {
+    background: #151719;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .post-holder {
+    background: #e1dee3;
+  }
+  body {
+    color: #3a4145;
+  }
+
+  /* Footer */
+  .site-footer {
+    color: #bbc7cc;
+    background-color: #22343a;
+  }
+
+  .fixed-nav {
+    background-color: #151719;
+    opacity: 1;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 99999;
+    width: 100%;
+    text-align: center;
+    padding: 4px;
+  }
 </style>
 
 <!-- Custom CSS via "custom.css"-file
@@ -64,20 +82,8 @@
 <!-- Custom link-tags for different icons
      Generated via https://favicon.io/favicon-generator/ -->
 
-<link
-  rel="apple-touch-icon"
-  sizes="180x180"
-  href="{{ "images/apple-touch-icon.png" | absURL }}"
-/>
-<link
-  rel="icon"
-  type="image/png"
-  sizes="32x32"
-  href="{{ "images/favicon-32x32.png" | absURL }}"
-/>
-<link
-  rel="icon"
-  type="image/png"
-  sizes="16x16"
-  href="{{ "images/favicon-16x16.png" | absURL }}"
-/>
+<link rel="apple-touch-icon" sizes="180x180" href="{{
+"images/apple-touch-icon.png" | absURL }}" /> <link rel="icon" type="image/png"
+sizes="32x32" href="{{ "images/favicon-32x32.png" | absURL }}" /> <link
+rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" |
+absURL }}" />
