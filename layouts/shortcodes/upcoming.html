@@ -64,7 +64,15 @@
 {{ range $.Site.Data.tournaments }}
 <div class="upcoming-tournament">
     <div class="upcoming-tournament__left">
-  <img src="{{ .image }}" alt="{{.host}}" />
+
+  {{ $schoolImage := resources.Get .image}}
+  <picture>
+    {{$imageW :=($schoolImage.Resize "360x webp").RelPermalink }}
+    {{$imageJ :=($schoolImage.Resize "360x").RelPermalink }}
+    <source srcset="{{ $imageW }}" type="image/webp">
+    <source srcset="{{ $imageJ}}" type="image/webp">
+    <img srcset="{{ $imageW }}, {{$imageJ}}" alt="{{.host}}" />
+  </picture>
   <span class="upcoming-tournament__date">{{ .date }} </span>
   </div>
   <div class="upcoming-tournament__right">
