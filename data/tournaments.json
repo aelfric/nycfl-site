@@ -13,5 +13,12 @@
         "host": "Bronx Science",
         "events": "Dec, Congress JV X, V X, JV Prose, V-Prose, Duo (Memorized), DP, OO, POI",
         "image": "images/schools/BxSci_Logo_New.jpg"
+    },
+    {
+        "date": "10/22",
+        "name":	"NYCFL - Sr. Raimonde Service Tournament",
+        "host": "Bronx Science", 
+        "events": "JVX, VX, OO, JV Poetry, V Poetry, Duo, Dec, DP, POI, Congress, LD, PF",
+        "image": "images/schools/BxSci_Logo_New.jpg"
     }
 ]
