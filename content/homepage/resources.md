@@ -10,13 +10,13 @@ All results are posted on
 [tabroom.com](https://www.tabroom.com)
 
 ### NYCFL Information
-* [Schedule]()
-* [NYCFL Ballots and Critiques]()
+* [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1UDpqA-W11IWhPEGqYvYFhpkPd21K3z8OJc0pq79A2Vb6eR9BskcwLvwJbA6ofHqEB-hq5PkePTxJ/pubhtml?gid=923006747&single=true)
+* [NYCFL Ballots and Critiques](documents/newballots.pdf)
 * [NCFL Membership Cards](/documents/NCFLMembershipForm.pdf)
-* [NYCFL Membership Form]()
-* [Judges Handbook]()
-* [Constitution]()
-* [Bylaws]()
+* [NYCFL Membership Form](documents/nycfldatacard.doc)
+* [Judges Handbook](judgeman.pdf)
+* [Constitution](documents/nycflconstitution2018.pdf)
+* [Bylaws](documents/nycflbylaws2016.pdf)
 
 ### Useful Websites
 * [NCFL Website](https://ncfl.org)
@@ -28,9 +28,9 @@ All results are posted on
 * [Long Island Forensic League](https://www.lifa.org)
 
 ### Extemp Archive
-* First Regis
-* Hugh McEvoy at Stuy
-* Sr. Raimonde at Xavier
-* PS 95
-* Wee Small Bronx
-* Regis/Loyola
+* [2019 First Regis](extemp/regis1extemp.pdf)
+* [2019 Hugh McEvoy at Stuy](extemp/hughextemp.pdf)
+* [2019 Sr. Raimonde at Xavier](extemp/xavierextemp.pdf)
+* [2019 PS 95](extemp/95extemp.pdf)
+* [2019 Wee Small Bronx](extemp/bronxextemp.pdf)
+* [2020 Regis/Loyola](extemp/regloyextemp.pdf)
