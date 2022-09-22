@@ -17,7 +17,7 @@
   <span class="upcoming-tournament__host">at {{ .host }} </span>
   <span class="upcoming-tournament__events">{{ .events }}</span>
   {{ if .register }}
-  <a href="{{.register}}" class="upcoming-tournament__register btn">Register</a>
+  <a href="{{.register}}" class="upcoming-tournament__register btn" target="_blank" rel="nofollow noopener">Register</a>
   {{ else }}
   <a class="upcoming-tournament__register btn disabled" title="Not open for registration yet">Register</a>
   {{ end }}
