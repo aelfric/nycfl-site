@@ -1,18 +1,11 @@
 [
     {
-        "date":"9/23",
-        "name": "NYCFL",
-        "host": "Regis High School",
-        "events": "JV X, V X, JV Prose, V-Prose, Duo (Binder), DP, OO, POI- Three Prelims",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24823",
-        "image": "images/schools/regis.jpeg"
-    },
-    {
         "date":"10/1",
-        "name": "NYCFL",
+        "name": "NYCFL Hugh McEvoy",
         "host": "Bronx Science",
         "events": "Dec, Congress JV X, V X, JV Prose, V-Prose, Duo (Memorized), DP, OO, POI",
-        "image": "images/schools/BxSci_Logo_New.jpg"
+        "image": "images/schools/BxSci_Logo_New.jpg",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24944"
     },
     {
         "date":"10/8",
