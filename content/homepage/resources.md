@@ -28,7 +28,7 @@ All results are posted on
 * [Long Island Forensic League](https://www.lifa.org)
 
 ### Extemp Archive
-* [2019 First Regis](extemp/regis1extemp.pdf)
+* [2022 First Regis](extemp/2022_first_regis.pdf)
 * [2019 Hugh McEvoy at Stuy](extemp/hughextemp.pdf)
 * [2019 Sr. Raimonde at Xavier](extemp/xavierextemp.pdf)
 * [2019 PS 95](extemp/95extemp.pdf)
