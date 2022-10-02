@@ -6,7 +6,7 @@ header_menu: true
 
 {{< updated >}}
 
-* Please send Bills for Hugh McEvoy Congress to charlie4n6@gmail.com by Sept 27th
+* Please send Bills for Sr. Raimonde Service Tournament to charlie4n6@gmail.com by Oct 11th
 
 ---
 
