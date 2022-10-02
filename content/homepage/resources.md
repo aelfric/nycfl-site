@@ -15,6 +15,7 @@ All results are posted on
 * [NCFL Membership Cards](/documents/NCFLMembershipForm.pdf)
 * [NYCFL Membership Form](documents/nycfldatacard.doc)
 * [Judges Handbook](judgeman.pdf)
+* [Debate Manual](documents/NYCFLdebatemanual.pdf)
 * [Constitution](documents/nycflconstitution2018.pdf)
 * [Bylaws](documents/nycflbylaws2016.pdf)
 
@@ -29,7 +30,7 @@ All results are posted on
 
 ### Extemp Archive
 * [2022 First Regis](extemp/2022_first_regis.pdf)
-* [2019 Hugh McEvoy at Stuy](extemp/hughextemp.pdf)
+* [2022 Hugh McEvoy at Stuy](extemp/2022_hughextemp.pdf)
 * [2019 Sr. Raimonde at Xavier](extemp/xavierextemp.pdf)
 * [2019 PS 95](extemp/95extemp.pdf)
 * [2019 Wee Small Bronx](extemp/bronxextemp.pdf)
