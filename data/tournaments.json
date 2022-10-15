@@ -1,13 +1,5 @@
 [
     {
-        "date":"10/8",
-        "name": "NYCFL Fall Bonus Debate",
-        "host": "Online - NSDA Campus",
-        "events": "JV LD, Varsity LD, JV PF, Varsity PF",
-        "image": "images/schools/nsda-campus.png",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24936"
-    },
-    {
         "date": "10/22",
         "name":	"NYCFL - Sr. Raimonde Service Tournament",
         "host": "Bronx Science", 
