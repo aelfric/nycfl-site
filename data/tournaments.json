@@ -1,32 +1,18 @@
 [
     {
-        "date": "10/22",
-        "name":	"NYCFL - Sr. Raimonde Service Tournament",
-        "host": "Bronx Science", 
-        "events": "JVX, VX, OO, JV Poetry, V Poetry, Duo, Dec, DP, POI, Congress, LD, PF",
-        "image": "images/schools/BxSci_Logo_New.jpg",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25019"
-    },
-    {
-        "date": "10/22",
-        "name":	"NYCFL - Online Policy League #1",
-        "host": "Online - NSDA Campus", 
-        "events": "Policy - Nov, JV, and Varsity",
-        "image": "images/schools/OPL_logo.png",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24097"
-    },
-    {
         "date": "11/5",
         "name":	"NYCFL - Monticello",
         "host": "Monticello High School", 
         "events": "All Speech and Congress and Debate",
-        "image": "images/schools/monticello.jpg"
+        "image": "images/schools/monticello.jpg",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25225"
     },
     {
         "date": "11/5",
         "name":	"NYCFL - Online Policy League #2",
         "host": "Online - NSDA Campus", 
         "events": "Policy - Nov, JV, and Varsity",
-        "image": "images/schools/OPL_logo.png"
+        "image": "images/schools/OPL_logo.png",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24098"
     }
 ]
