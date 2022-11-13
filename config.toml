@@ -1,4 +1,6 @@
-baseURL = "https://nycfl.org"
+# baseURL = "https://nycfl.org"
+relativeURLs = true
+
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -20,7 +22,7 @@ enableGitInfo = true
     copyright = "© NYCFL"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "New York Catholic Forensic Leaguge re a speech and debate organization of public and private schools in The Bronx, Manhattan, Staten Island, and Westchester."
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
