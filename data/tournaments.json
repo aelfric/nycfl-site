@@ -6,5 +6,12 @@
         "events": "All Speech and Congress",
         "image": "images/schools/nsda-campus.png",
         "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25612"
+    },
+    {
+        "date": "1/7",
+        "name":	"Chaminade Invitational",
+        "host": "Chaminade High School", 
+        "events": "All Speech and Congress",
+        "image": "images/schools/chaminade.png"
     }
 ]

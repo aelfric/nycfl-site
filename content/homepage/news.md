@@ -6,7 +6,8 @@ header_menu: true
 
 {{< updated >}}
 
-* Please send Bills for Sr. Raimonde Service Tournament to charlie4n6@gmail.com by Oct 11th
+* The Annual Chaminade Invitational will be held in person this year. They have asked us to share the [invitation](/2023%20Invitation%20Letter%20Chaminade%20S%26D%20Tournament.pdf
+) with all coaches.
 
 ---
 
