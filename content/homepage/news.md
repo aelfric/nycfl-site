@@ -8,6 +8,7 @@ header_menu: true
 
 * The Annual Chaminade Invitational will be held in person this year. They have asked us to share the [invitation](/2023%20Invitation%20Letter%20Chaminade%20S%26D%20Tournament.pdf
 ) with all coaches.
+* Keep an eye out for the recent email from our treasurer regarding the NCFL Grand Qualifier
 
 ---
 
