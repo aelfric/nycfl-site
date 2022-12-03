@@ -8,6 +8,13 @@
         "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25612"
     },
     {
+        "date": "12/17",
+        "name":	"Christmas Chlassic",
+        "host": "Regis High School", 
+        "events": "All Speech and Congress",
+        "image": "images/schools/regis.png"
+    }
+    {
         "date": "1/7",
         "name":	"Chaminade Invitational",
         "host": "Chaminade High School", 
