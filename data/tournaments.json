@@ -9,10 +9,19 @@
     },
     {
         "date": "12/17",
-        "name":	"Christmas Chlassic",
+        "name":	"NYCFL Christmas Chlassic",
         "host": "Regis High School", 
         "events": "All Speech and Congress",
-        "image": "images/schools/regis.jpeg"
+        "image": "images/schools/regis.jpeg",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25553"
+    },
+    {
+        "date": "12/17",
+        "name":	"NYCFL - Online Policy League #3"
+        "host": "Regis High School", 
+        "events": "Policy - Nov, JV, and Varsity",
+        "image": "images/schools/OPL_logo.png",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24099"
     },
     {
         "date": "1/7",
