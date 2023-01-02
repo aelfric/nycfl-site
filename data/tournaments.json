@@ -1,33 +1,25 @@
 [
     {
-        "date": "12/3",
-        "name":	"NYCFL - Emily Clemente",
-        "host": "Online - NSDA Campus", 
-        "events": "All Speech and Congress",
-        "image": "images/schools/nsda-campus.png",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25612"
-    },
-    {
-        "date": "12/17",
-        "name":	"NYCFL Christmas Chlassic",
-        "host": "Regis High School", 
-        "events": "All Speech and Congress",
-        "image": "images/schools/regis.jpeg",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25553"
-    },
-    {
-        "date": "12/17",
-        "name":	"NYCFL - Online Policy League #3",
-        "host": "Online - NSDA Campus", 
-        "events": "Policy - Nov, JV, and Varsity",
-        "image": "images/schools/OPL_logo.png",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24099"
-    },
-    {
         "date": "1/7",
         "name":	"Chaminade Invitational",
         "host": "Chaminade High School", 
         "events": "All Speech and Congress",
         "image": "images/schools/chaminade.png"
-    }
+    },
+    {
+        "date": "1/14",
+        "name":	"Regis/Loyola Sr. Raimonde Tournament",
+        "host": "Regis High School / Loyola High School", 
+        "events": "All Speech and Congress",
+        "image": "images/schools/regis.jpeg",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25553"
+    },
+    {
+        "date": "1/21",
+        "name":	"NYCFL - Online Policy League #4",
+        "host": "Online - NSDA Campus", 
+        "events": "Policy - Nov, JV, and Varsity",
+        "image": "images/schools/OPL_logo.png",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24100"
+    },
 ]
