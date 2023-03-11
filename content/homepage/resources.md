@@ -31,6 +31,7 @@ All results are posted on
 * [Long Island Forensic League](https://www.lifa.org)
 
 ### Extemp Archive
+* [2023 NYC Regionals](extemp/2023_nysfl_regionals.pdf)
 * [2023 Regis/Loyola](extemp/2023_Regis-Loyola.pdf)
 * [2022 First Regis](extemp/2022_first_regis.pdf)
 * [2022 Hugh McEvoy at Stuy](extemp/2022_hughextemp.pdf)

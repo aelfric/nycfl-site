@@ -6,9 +6,7 @@ header_menu: true
 
 {{< updated >}}
 
-* The Annual Chaminade Invitational will be held in person this year. They have asked us to share the [invitation](/2023%20Invitation%20Letter%20Chaminade%20S%26D%20Tournament.pdf
-) with all coaches.
-* Keep an eye out for the recent email from our treasurer regarding the NCFL Grand Qualifier
+* On Saturday, April 29th, the NYSFL State Championship will be at Bronx Science (75 West 205th Street, Bronx NY) for Debate and Congress prelims and the nearby (a 10 min walk) PS 95 Sheila Mencher Elementary School (3961 Hillman Ave, Bronx, NY) for Speech prelims.
 
 ---
 

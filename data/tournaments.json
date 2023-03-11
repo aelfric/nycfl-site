@@ -1,23 +1,10 @@
 [
     {
-        "date": "1/21",
-        "name":	"NYCFL - Online Policy League #4",
-        "host": "Online - NSDA Campus", 
-        "events": "Policy - Nov, JV, and Varsity",
-        "image": "images/schools/OPL_logo.png",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=24100"
-    },{
-        "date": "1/21",
-        "name":	"NYCFL - Bump Tournament",
-        "host": "Online - NSDA Campus", 
-        "events": "Novice and JV LD and PF",
-        "image": "images/schools/nsda-campus.png",
-        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=25620"
-    },{
-        "date": "2/4",
-        "name":	"NYCFL - Fordham Prep",
-        "host": "Fordham Prep", 
-        "events": "All Speech and Congress",
-        "image": "images/schools/fordham.png"
+        "date": "3/28",
+        "name":	"NYCFL - Grand National Qualifier",
+        "host": "Stuyvesant High School", 
+        "events": "NCFL Events",
+        "image": "images/schools/stuy.png",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=26994"
     }
 ]
