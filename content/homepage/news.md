@@ -6,7 +6,12 @@ header_menu: true
 
 {{< updated >}}
 
-* On Saturday, April 29th, the NYSFL State Championship will be at Bronx Science (75 West 205th Street, Bronx NY) for Debate and Congress prelims and the nearby (a 10 min walk) PS 95 Sheila Mencher Elementary School (3961 Hillman Ave, Bronx, NY) for Speech prelims.
+* League moderators will meet on Saturday, September 9,  at Iona Preparatory Upper School, 255 Wilmot Rd, New Rochelle, NY 10804, at 9:30 a.m. This meeting usually runs until
+  about noon, and Iona typically provides a light breakfast (coffee, juice, bagels, etc.).  There will be a "zoom option" for those who need to attend virtually, but everyone
+  is welcome in person in New Rochelle.  During the meeting, we settle the calendar of competitions (including which schools will be hosting which events), discuss revisions
+  to competition rules, make some decisions about the league's finances, and set league policies. Suggestions for agenda items should be sent to Charlie Sloat, our tournament
+  director, at [charlie4n6@gmail.com](mailto:charlie4n6@gmail.com), and to Tom Beck, our president, at [tbjnyc@gmail.com](mailto:tbjnyc@gmail.com). 
+
 
 ---
 
