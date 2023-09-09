@@ -6,6 +6,7 @@ header_menu: true
 
 {{< updated >}}
 
+* For those attending virtually, the agenda for the Moderators Meeting is [here](documents/2023-24_moderators_mtg_agenda.pdf)
 * League moderators will meet on Saturday, September 9,  at Iona Preparatory Upper School, 255 Wilmot Rd, New Rochelle, NY 10804, at 9:30 a.m. This meeting usually runs until
   about noon, and Iona typically provides a light breakfast (coffee, juice, bagels, etc.).  There will be a "zoom option" for those who need to attend virtually, but everyone
   is welcome in person in New Rochelle.  During the meeting, we settle the calendar of competitions (including which schools will be hosting which events), discuss revisions
