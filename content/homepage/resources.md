@@ -12,8 +12,8 @@ All results are posted on
 ### NYCFL Information
 * [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1UDpqA-W11IWhPEGqYvYFhpkPd21K3z8OJc0pq79A2Vb6eR9BskcwLvwJbA6ofHqEB-hq5PkePTxJ/pubhtml?gid=923006747&single=true)
 * [NYCFL Ballots and Critiques](documents/newballots.pdf)
-* [NCFL Membership Cards](/documents/NCFLMembershipForm.pdf)
-* [NYCFL Membership Form](documents/nycfldatacard.doc)
+* [NCFL Membership Cards](documents/NCFLMembershipFormForm24.pdf)
+* [NYCFL Membership Form](documents/nycfldatacard24form.pdf)
 * [Judges Handbook](judgeman.pdf)
 * [Debate Manual](documents/NYCFLdebatemanual.pdf)
 * [Judging Extemp](Judging%20extemp.pdf)
