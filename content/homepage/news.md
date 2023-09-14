@@ -6,12 +6,8 @@ header_menu: true
 
 {{< updated >}}
 
-* For those attending virtually, the agenda for the Moderators Meeting is [here](documents/2023-24_moderators_mtg_agenda.pdf)
-* League moderators will meet on Saturday, September 9,  at Iona Preparatory Upper School, 255 Wilmot Rd, New Rochelle, NY 10804, at 9:30 a.m. This meeting usually runs until
-  about noon, and Iona typically provides a light breakfast (coffee, juice, bagels, etc.).  There will be a "zoom option" for those who need to attend virtually, but everyone
-  is welcome in person in New Rochelle.  During the meeting, we settle the calendar of competitions (including which schools will be hosting which events), discuss revisions
-  to competition rules, make some decisions about the league's finances, and set league policies. Suggestions for agenda items should be sent to Charlie Sloat, our tournament
-  director, at [charlie4n6@gmail.com](mailto:charlie4n6@gmail.com), and to Tom Beck, our president, at [tbjnyc@gmail.com](mailto:tbjnyc@gmail.com). 
+* Since we have not secured a host for the October 7th tournament, Bronx Science has agreed to host both speech and debate on 10/21.
+  So we will move the traditional Hugh McEvoy from 10/7 to 10/21.  We will post the full schedule in few days.
 
 
 ---
