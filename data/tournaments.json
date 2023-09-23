@@ -11,12 +11,14 @@
         "name":	"Online Policy League 1",
         "host": "NSDA Campus", 
         "events": "Varsity PD and LD",
-        "image": "images/schools/OPL_Logo.png"
+        "image": "images/schools/OPL_Logo.png",
+        "register":""
     },{
         "date": "10/21",
         "name":	"NYCFL - Hugh McEvoy + Debate",
         "host": "Bronxy High School of Science", 
         "events": "LD, PF, Dec, Congress JV X, V X, JV Prose, V-Prose, Duo (Memorized), DP, OO, POI",
-        "image": "images/schools/BxSci_Logo_New.jpg"
+        "image": "images/schools/BxSci_Logo_New.jpg",
+        "register":""
     }
 ]
