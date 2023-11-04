@@ -4,14 +4,12 @@ weight: 4
 header_menu: true
 ---
 
-In this section of the website you will find NYCFL resources and links to information and materials for the 2022 - 2023 season.  
+In this section of the website you will find NYCFL resources and links to information and materials for the 2023 - 2024 season.  
 
 All results are posted on
 [tabroom.com](https://www.tabroom.com)
 
 ### NYCFL Information
-
-* [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1UDpqA-W11IWhPEGqYvYFhpkPd21K3z8OJc0pq79A2Vb6eR9BskcwLvwJbA6ofHqEB-hq5PkePTxJ/pubhtml?gid=923006747&single=true)
 * [NYCFL Ballots and Critiques](documents/newballots.pdf)
 * [NCFL Membership Cards](documents/NCFLMembershipFormForm24.pdf)
 * [NYCFL Membership Form](documents/nycfldatacard24form.pdf)
@@ -27,7 +25,7 @@ All results are posted on
 
 * [NCFL Website](https://ncfl.org)
 * [NYSFL State Website](https://nysfl.org)
-* [NCFL Nationals Informations](https://ncflnationals.org)
+* [NCFL Nationals Information](https://ncflnationals.org)
 * [NSDA Website and Resources](https://speechanddebate.org)
 * [TABROOM.com](https://www.tabroom.com) for Tournament Registration
 * [Jim Menick Master Schedule](http://www.jimmenick.com/henhud/sked.html)
