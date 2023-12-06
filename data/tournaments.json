@@ -1,21 +1,17 @@
 [
     {
-        "date": "12/2",
-        "name":	"Emily Clemente Memorial",
-        "host": "Chapin", 
-        "events": "JV - X, OO, JV-OI, V-OI, Dec (Senior Judging Allowed)",
-        "image": "images/schools/chapin.png"
-    },{
         "date": "12/16",
         "name":	"Christmas Chlassic",
         "host": "Regis High School", 
         "events": "Congress, PF, LD (3 rounds)",
-        "image": "images/schools/regis.jpeg"
+        "image": "images/schools/regis.jpeg",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=29568"
     },{
         "date": "12/16",
         "name":	"Online Policy League 3",
         "host": "Online Policy League", 
         "events": "Policy - Novice, JV, Varsity",
-        "image": "images/schools/OPL_logo.png"
+        "image": "images/schools/OPL_logo.png",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=28433"
     }
 ]
