@@ -14,7 +14,7 @@ All results are posted on
 * [NCFL Membership Cards](documents/NCFLMembershipFormForm24.pdf)
 * [NYCFL Membership Form](documents/nycfldatacard24form.pdf)
 * [Judges Handbook](judgeman.pdf)
-* [Debate Manual](documents/NYCFLdebatemanual.pdf)
+* [Debate Manual](documents/NYCFL%20Guide%20to%20Judging%20Debate%20Events.pdf)
 * [Judging Extemp](Judging%20extemp.pdf)
 * [Judges Handbook](judgeman.pdf)
 * [Constitution](documents/nycflconstitution2018.pdf)
