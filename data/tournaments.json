@@ -1,17 +1,16 @@
 [
     {
-        "date": "12/16",
-        "name":	"Christmas Chlassic",
-        "host": "Regis High School", 
-        "events": "Congress, PF, LD (3 rounds)",
-        "image": "images/schools/regis.jpeg",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=29568"
-    },{
-        "date": "12/16",
-        "name":	"Online Policy League 3",
-        "host": "Online Policy League", 
-        "events": "Policy - Novice, JV, Varsity",
-        "image": "images/schools/OPL_logo.png",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=28433"
+        "date": "03/09",
+        "name":	"Last Chance Speech",
+        "host": "Democracy Prep - Bronx Prep", 
+        "events": "All Speech",
+        "image": "images/schools/democracy-prep-bronx.png"
+    },
+    {
+        "date": "03/16",
+        "name":	"NYCFL Grand National Qualifier",
+        "host": "Stuyvesant High School", 
+        "events": "All NCFL Events",
+        "image": "images/schools/stuy.png"
     }
 ]
