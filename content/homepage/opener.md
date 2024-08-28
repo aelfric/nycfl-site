@@ -10,6 +10,4 @@ We are a speech and debate organization of public and private schools in The Bro
 All League and Tournament Information will be hosted here.  Tournament registration is handled through [tabroom.com](https://www.tabroom.com), a
 tournament management system sponsored by the National Speech and Debate Association.
 
-Welcome to the 2022 - 2023 Season
-
 {{<logo>}}
