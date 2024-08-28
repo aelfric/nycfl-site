@@ -7,10 +7,14 @@ header_menu: true
 {{< updated >}}
 
 ---
-
-* [2023 - 2024 Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTJOh8WlqWYlYpPWgzZzNWo5HzverGja5KeY4LgvBRObUZjeZUvXlpG2oqwEL5m8WVgqooC7KJp36kg/pubhtml?gid=923006747&single=true)
-* [2023 Fall Meeting Agenda](documents/2023-24_moderators_mtg_agenda.pdf)
-* [2023 Treasurer's Report](https://nycfl.org/documents/NYCFL_Treasurer_Report_2022-2023_Final.pdf)
-* {{<icon class="fa fa-twitter">}} [nycfl](https://twitter.com/nycfl) - Follow us on Twitter
-* [NCFL Membership Form (2022-2023)](documents/NCFLMembershipForms.doc) - Required for Participation
-* [NYCFL Contact Information Sheet (2022-2023)](documents/nycfldatacard.doc)
+* The Fall Moderators Meeting will be held at Iona Preparatory School on 
+  Sept. 7th.  More information will be forthcoming.  Items for discussion include
+    * [2024 - 2025 Schedule (TENTATIVE)](https://docs.google.com/spreadsheets/d/1ULrpnIzo4b4Wxci4dFZhUoxu_JZ-NanShrNOlX_Q-iA/edit?usp=sharing)
+    * [Proposed Grand Tournament Eligibility Changes](https://docs.google.com/document/d/1lAccN_bjZMgMtGqttyUV1Yna4HbaTnhNTetWDDMlIQo/edit?usp=sharing)
+    * [2024 Treasurer's Report](/documents/New%20York%20Catholic%20Forensic%20League_Treasurer's%20Report%202023-2024%20Final.pdf)
+* NCFL Membership Form (2024-2025) - Required for Participation
+    * [Printable](documents/NCFLMembershipForms%202024%20print.pdf)
+    * [Fillable](documents/NCFLMembershipForms%202024%20fillable.pdf)
+* NYCFL Contact Information Sheet (2024-2025)
+    * [Printable](documents/nycfldatacard%202024%20print.pdf)
+    * [Fillable](documents/nycfldatacard%202024%20fillable.pdf)
