@@ -1,16 +1,2 @@
 [
-    {
-        "date": "03/09",
-        "name":	"Last Chance Speech",
-        "host": "Democracy Prep - Bronx Prep", 
-        "events": "All Speech",
-        "image": "images/schools/democracy-prep-bronx.png"
-    },
-    {
-        "date": "03/16",
-        "name":	"NYCFL Grand National Qualifier",
-        "host": "Stuyvesant High School", 
-        "events": "All NCFL Events",
-        "image": "images/schools/stuy.png"
-    }
 ]
