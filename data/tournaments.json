@@ -1,2 +1,26 @@
 [
+    {
+        "date": "09/27",
+        "name":	"NYCFL First Regis",
+        "host": "Regis High School", 
+        "events": "JV X, V X, JV Prose, V-Prose, Duo (Binder), DP, OO, POI",
+        "image": "images/schools/regis.jpeg",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=32811"
+    },
+    {
+        "date": "10/05",
+        "name":	"NYCFL Fall Debate Online",
+        "host": "NSDA Campus", 
+        "events": "Varsity and JV PD and LD",
+        "image": "images/schools/nsda-campus.png",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=32335"
+    },{
+        "date": "10/05",
+        "name":	"NYCFL Hugh McEvoy",
+        "host": "Xavier High School", 
+        "events": "Dec, Congress, JV X, V X, JV Prose, V-Prose, Duo (Memorized), DP, OO, POI",
+        "image": "images/schools/Xavier_English_Seal.png",
+        "register": "://www.tabroom.com/index/tourn/index.mhtml?tourn_id=32892"
+    }
+
 ]
