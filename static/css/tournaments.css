@@ -52,6 +52,10 @@
 
   .upcoming-tournament__register {
     text-align: center;
+    text-decoration: none;
+    background-color: var(--highlight);
+    color: var(--highlight-contrast);
+    border-radius: 3px;
   }
 
   .btn.disabled,
