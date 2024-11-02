@@ -1,26 +1,25 @@
 [
     {
-        "date": "10/26",
-        "name":	"NYCFL Sr. Raimonde Service",
-        "host": "Bronx High School of Science", 
-        "events": "LD, PF, Dec, Congress, JV X, V X, JV Poetry, V-Poetry, Duo (Memorized), DP, OO, POI",
-        "image": "images/schools/BxSci_Logo_New.jpg",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=32948"
-    },
-    {
-        "date": "10/26",
-        "name":	"Online Policy League #1",
+        "date": "11/09",
+        "name":	"Online Policy League #2",
         "host": "Online Policy League", 
         "events": "Policy, Nov, JV and Varsity",
         "image": "images/schools/OPL_logo.png",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=32278"
+        "register": "https://opl.tabroom.com"
     },
     {
-        "date": "11/02",
-        "name":	"NYCFL Speech and Debate",
-        "host": "Byram Hills High School",
-        "events": "All Speech and Congress and Debate",
-        "image": "images/schools/BH_Interlocked-RedOfficial.png",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=33152"
+        "date": "11/16",
+        "name":	"NYCFL Little Fall Bronx",
+        "host": "P.S. 95",
+        "events": "LD and PF",
+        "image": "images/schools/BxSci_Logo_New.jpg",
+        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=33684"
+    },
+    {
+        "date": "12/07",
+        "name":	"NYCFL Emily Clemente Memorial",
+        "host": "The Chapin School",
+        "events": "JV - X, OO, JV-OI, V-OI, Dec",
+        "image": "images/schools/chapin.png"
     }
 ]
