@@ -16,7 +16,7 @@ header_menu: true
 
 **Debate Rep** - [James Menick](mailto:jim.menick@gmail.com)
 
-**Congress Rep** - [Jeremy Norris](mailto:jjnorris@gmail.com)
+**Congress Rep** - [Neil Schliefer](mailto:neilacts@aol.com)
 
 **Tech Rep** - [Frank Riccobono](mailto:f.riccobono@gmail.com)
 
