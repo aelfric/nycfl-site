@@ -1,34 +1,3 @@
 [
-    {
-        "date": "01/18",
-        "name":	"Sr. Raimonde Memorial",
-        "host": "Regis & Loyala", 
-        "events": "All Speech and Congress",
-        "image": "images/schools/regis.jpeg",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=34603"
-    },
-    {
-        "date": "01/25",
-        "name":	"Online Policy League #4",
-        "host": "Online Policy League", 
-        "events": "Policy - Novice, JV, Varsity",
-        "image": "images/schools/OPL_logo.png",
-        "register": "https://opl.tabroom.com"
-    },
-    {
-        "date": "02/01",
-        "name":	"NYCFL Speech",
-        "host": "P.S. 95",
-        "events": "All Speech and Congress",
-        "image": "images/schools/BxSci_Logo_New.jpg",
-        "register": "https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=33684"
-    },
-    {
-        "date": "02/08",
-        "name":	"NYCFL Bronx Winter Local",
-        "host": "Bronx Science",
-        "events": "PF, LD, CX (Nov and JV), Congress, ALL SPEECH (OPEN TO ALL)",
-        "image": "images/schools/BxSci_Logo_New.jpg",
-        "register":"http://bronxwinterlocal.tabroom.com/"
-    }
+
 ]
