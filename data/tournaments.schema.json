@@ -1,0 +1,38 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://nycfl.org/tournaments.schema.json",
+    "title": "Tournament List",
+    "description": "A list of upcomming tournaments",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": [
+            "date",
+            "name",
+            "host",
+            "events",
+            "image"
+        ],
+        "properties": {
+            "date": {
+                "type": "string",
+                "format": "MM/DD"
+            },
+            "name": {
+                "type": "string"
+            },
+            "host": {
+                "type": "string"
+            },
+            "events": {
+                "type": "string"
+            },
+            "image": {
+                "type": "string"
+            },
+            "register": {
+                "type": "string"
+            }
+        }
+    }
+}
