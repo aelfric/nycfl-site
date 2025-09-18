@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "New York Catholic Forensics League"
+title = "New York Catholic Forensic League"
 
 enableGitInfo = true
 
