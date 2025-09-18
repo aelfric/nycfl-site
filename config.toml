@@ -22,7 +22,7 @@ enableGitInfo = true
     copyright = "© NYCFL"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "New York Catholic Forensic Leaguge re a speech and debate organization of public and private schools in The Bronx, Manhattan, Staten Island, and Westchester."
+    description = "New York Catholic Forensic Leaguge (NYCFL) is a speech and debate organization of public and private schools in The Bronx, Manhattan, Staten Island, and Westchester."
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -36,7 +36,7 @@ enableGitInfo = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "New York Catholic Forensics League"
+    title = "New York Catholic Forensic League"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
