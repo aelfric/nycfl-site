@@ -5,5 +5,17 @@
         "image": "images/schools/regis.jpeg",
         "events": "JV X, V X, JV Prose, V-Prose, Duo (Binder), DP, OO, POI",
         "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=37128"
+    },{
+        "date": "10/04",
+        "host": "Xavier High School",
+        "image": "images/schools/Xavier_English_Seal.png",
+        "events": "Dec, Congress, JV X, V X, JV Prose, V-Prose, Duo (Memorized), DP, OO, POI",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=37366"
+    },{
+        "date": "10/04",
+        "host": "NSDA Campus",
+        "image": "images/schools/OPL_logo.png",
+        "events": "Varsity and JV Pol, PF and LD",
+        "register":"https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=35811"
     }
 ]

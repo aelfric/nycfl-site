@@ -16,7 +16,7 @@ All results are posted on
 * [Judges Handbook](judgeman.pdf)
 * [Debate Manual](documents/NYCFL%20Guide%20to%20Judging%20Debate%20Events.pdf)
 * [Judging Extemp](Judging%20extemp.pdf)
-* [Judges Handbook](judgeman.pdf)
+* [Judges Handbook (Draft Updted 2025)](documents/DRAFT%202025%20NYCFL%20Speech%20Judge%20Manual.pdf)
 * [Constitution](documents/nycflconstitution2018.pdf)
 * [Bylaws](documents/nycflbylaws2016.pdf)
 * [2022-2023 Treasurer Report](documents/NYCFL_Treasurer_Report_2022-2023_Final.pdf)
