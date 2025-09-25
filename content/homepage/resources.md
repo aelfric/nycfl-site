@@ -10,6 +10,7 @@ All results are posted on
 [tabroom.com](https://www.tabroom.com)
 
 ### NYCFL Information
+
 * [NYCFL Ballots and Critiques](documents/newballots.pdf)
 * [NCFL Membership Cards](documents/NCFLMembershipFormForm24.pdf)
 * [NYCFL Membership Form](documents/nycfldatacard24form.pdf)
@@ -22,6 +23,7 @@ All results are posted on
 * [2022-2023 Treasurer Report](documents/NYCFL_Treasurer_Report_2022-2023_Final.pdf)
 * [2023-2024 Treasurer Report](documents/New%20York%20Catholic%20Forensic%20League_Treasurer's%20Report%202023-2024%20Final.pdf)
 * [2024-2025 Treasurer Report](documents/NYCFL_Treasurers_Report_2025-2026_Final.pdf)
+
 ### Useful Websites
 
 * [NCFL Website](https://ncfl.org)

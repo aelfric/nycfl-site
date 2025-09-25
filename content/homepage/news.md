@@ -7,8 +7,7 @@ header_menu: true
 {{< updated >}}
 
 ---
-* The Fall Moderators Meeting will be held at Iona Preparatory School on 
-  Sept. 6th.  [Agenda](https://docs.google.com/document/d/13uzHNA8dJTYgmdYsN1V0bnoeuykyFaMkm3LpzP60R10/edit?tab=t.0)
-    * [2025 - 2026 Schedule (TENTATIVE)](https://docs.google.com/spreadsheets/d/1LtH0Hc0VNfTwy3U3sjMEI06AjytPVa6sRreBmR38a2k/edit?usp=sharing)
+
+* [2025 - 2026 Schedule](https://docs.google.com/spreadsheets/d/1LtH0Hc0VNfTwy3U3sjMEI06AjytPVa6sRreBmR38a2k/edit?usp=sharing)
 * Please complete your [NCFL Data Card](documents/2526_ncfl_school_data_card.pdf) as soon as possible.
 * The [2024-2025 Treasurer Report](documents/NYCFL_Treasurers_Report_2025-2026_Final.pdf) is available now.
