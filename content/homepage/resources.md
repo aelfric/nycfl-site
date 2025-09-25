@@ -16,7 +16,7 @@ All results are posted on
 * [NYCFL Membership Form](documents/nycfldatacard24form.pdf)
 * [Judges Handbook](judgeman.pdf)
 * [Debate Manual](documents/NYCFL%20Guide%20to%20Judging%20Debate%20Events.pdf)
-* [Judging Extemp](Judging%20extemp.pdf)
+* [Judging Extemp](HOW%20TO%20JUDGE%20EXTEMP.pdf)
 * [Judges Handbook (Draft Updated 2025)](documents/DRAFT%202025%20NYCFL%20Speech%20Judge%20Manual.pdf)
 * [Constitution](documents/nycflconstitution2018.pdf)
 * [Bylaws](documents/nycflbylaws2016.pdf)
