@@ -1,26 +1,9 @@
-{{ range $.Site.Data.tournaments }}
-<div class="upcoming-tournament">
-    <div class="upcoming-tournament__left">
-
-  {{ $schoolImage := resources.Get .image}}
-  <picture>
-    {{$imageW :=($schoolImage.Resize "360x webp").RelPermalink }}
-    {{$imageJ :=($schoolImage.Resize "360x").RelPermalink }}
-    <source srcset="{{ $imageW }}" type="image/webp">
-    <source srcset="{{ $imageJ}}" type="image/webp">
-    <img srcset="{{ $imageW }}, {{$imageJ}}" alt="{{.host}}" />
-  </picture>
-  <span class="upcoming-tournament__date">{{ .date }} </span>
-  </div>
-  <div class="upcoming-tournament__right">
-  <span class="upcoming-tournament__name">{{ .name }}</span>
-  <span class="upcoming-tournament__host">at {{ .host }} </span>
-  <span class="upcoming-tournament__events">{{ .events }}</span>
-  {{ if .register }}
-  <a href="{{.register}}" class="upcoming-tournament__register btn" target="_blank" rel="nofollow noopener">Register</a>
-  {{ else }}
-  <a class="upcoming-tournament__register btn disabled" title="Not open for registration yet">Register</a>
-  {{ end }}
-  </div>
-</div>
-{{ end }}
+<p>Upcoming tournaments are available in Tabroom.</p>
+<a
+        href="https://www.tabroom.com/index/circuit/calendar.mhtml?circuit_id=16"
+        class="btn"
+        target="_blank"
+        rel="nofollow noopener"
+>
+    Register
+</a>
