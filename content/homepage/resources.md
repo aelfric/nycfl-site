@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-In this section of the website you will find NYCFL resources and links to information and materials for the 2023 - 2024 season.  
+In this section of the website you will find NYCFL resources and links to information and materials.
 
 All results are posted on
 [tabroom.com](https://www.tabroom.com)
@@ -13,7 +13,7 @@ All results are posted on
 
 * [NYCFL Ballots and Critiques](documents/newballots.pdf)
 * [NCFL Membership Cards](documents/NCFLMembershipFormForm24.pdf)
-* [NYCFL Membership Form](documents/nycfldatacard24form.pdf)
+* [NYCFL Membership Form](documents/nycfldatacard26form.pdf)
 * [Judges Handbook](judgeman.pdf)
 * [Debate Manual](documents/NYCFL%20Guide%20to%20Judging%20Debate%20Events.pdf)
 * [Judging Extemp](documents/HOW%20TO%20JUDGE%20EXTEMP.pdf)
@@ -23,6 +23,7 @@ All results are posted on
 * [2022-2023 Treasurer Report](documents/NYCFL_Treasurer_Report_2022-2023_Final.pdf)
 * [2023-2024 Treasurer Report](documents/New%20York%20Catholic%20Forensic%20League_Treasurer's%20Report%202023-2024%20Final.pdf)
 * [2024-2025 Treasurer Report](documents/NYCFL_Treasurers_Report_2025-2026_Final.pdf)
+* [2025-2026 Treasurer Report](documents/Treasurers%20report%202025-2026%20FINAL.pdf)
 
 ### Useful Websites
 
