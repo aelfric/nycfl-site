@@ -14,6 +14,6 @@ Wilmot Rd, New Rochelle, NY 10804</address>, from 9 am until about noon. Iona ge
 refreshments.
 
 * [2026 - 2027 Schedule](https://docs.google.com/spreadsheets/d/1LtH0Hc0VNfTwy3U3sjMEI06AjytPVa6sRreBmR38a2k/edit?usp=sharing)
-* Please complete your NCFL Data Card ([print version](documents/2627_ncfl_school_data_card.pdf) or [fillable form](documents/nycfldatacard26form.pdf)) as soon as possible.
+* Please complete your [NCFL Data Card](documents/2627_ncfl_school_data_card.pdf) as soon as possible.
 * The [2025-2026 Treasurer Report](documents/Treasurers%20report%202025-2026%20FINAL.pdf) is available now.
 * [Rule change proposal](documents/AI-Proposal.docx) related to AI submitted by Jim Menick
